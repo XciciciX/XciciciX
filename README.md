@@ -6,6 +6,8 @@
 📍 Previously: **B.S.E. in Data Science Engineering @ University of Michigan**  
 💡 Passionate about **AI systems, distributed computing, and generative models**.
 
+I am actively looking for internship opportunities in SDE/MLE in 2026 Summer.
+
 I’ve built large-scale intelligent systems integrating ML models with distributed architectures.  
 At **AMD**, I developed the *Wingman AI Debug Agent* and optimized LLM & diffusion model inference on AMD GPUs (3× faster).  
 At **Artisk.ai**, I engineered containerized Flask microservices on GCP handling 10K+ daily requests with Redis-based async pipelines.  
