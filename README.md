@@ -5,8 +5,7 @@
 🎓 **M.S. in Computer Science @ University of Southern California (USC)**  
 📍 Previously: **B.S.E. in Data Science Engineering @ University of Michigan**  
 💡 Passionate about **AI systems, distributed computing, and generative models**.
-🏆 **Finalist – Grundfos Prize Student Award 2025**  
-  Selected as one of the finalists (Project Student/Group category) for outstanding research on AI-based predictive maintenance at Grundfos Headquarters, Bjerringbro, Denmark.
+
 
 
 I am actively looking for internship opportunities in SDE/MLE in 2026 Summer.
@@ -19,7 +18,8 @@ My other projects include a Paxos-based distributed key-value store, a full-stac
 🧩 **Interests:** AI agents · Distributed systems · Computer graphics · LLM infrastructure  
 🌐 [Portfolio](https://xixiaopan.netlify.app) | [LinkedIn](https://www.linkedin.com/in/xixiao-pan/) | [Email](mailto:cicipan@live.com)
 
-
+🏆 **Finalist – Grundfos Prize Student Award 2025**  
+  Selected as one of the finalists (Project Student/Group category) for outstanding research on AI-based predictive maintenance at Grundfos Headquarters, Bjerringbro, Denmark.
 
 <!--
 **XciciciX/XciciciX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
